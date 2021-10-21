@@ -1,7 +1,10 @@
 .logo
+    {
+        width: 50px;
+    }
+
+.profile
 {
-    width: 150px;
-    border-radius: 500px;
-    border: 5px solid #ccc;
-    outline: 5px solid #000;
+    max-width:150px;
+    border-radius:50px;
 }
